@@ -5,6 +5,7 @@ This project focuses on detecting fraudulent credit card transactions using vari
 
 Dataset Summary
 Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Records: 284,807 transactions
 Fraudulent transactions: 492
 Class Distribution:
